@@ -2,11 +2,12 @@ import './Projects.css';
 
 const projects = [
   {
-    name: 'Project One',
-    desc: 'A brief description of the project goes here.',
-    demo: '#',
-    code: '#',
+    name: 'Projects By IIT KANPUR',
+    desc: 'A collaborative platform for showcasing innovative projects from IIT Kanpur students and faculty. I contributed to the frontend, building interactive UI components and ensuring a seamless user experience.',
+    demo:'https://sntsummerprojects.netlify.app/',
+    code: 'https://github.com/Raj675592/SnT_Project_Site',
   },
+  
   {
     name: 'Project Two',
     desc: 'A brief description of the project goes here.',

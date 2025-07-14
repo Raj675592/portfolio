@@ -15,8 +15,8 @@ body, html {
   box-sizing: border-box;
   /* Geometric 3D SVG background */
   background: 
-    linear-gradient(135deg, #181824cc 0%, #23233acc 100%),
-    url('https://www.svgbackgrounds.com/wp-content/uploads/2021/05/3d-geometric.svg');
+    linear-gradient(135deg, #181824cc 0%, #23233acc 100%);
+   
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
