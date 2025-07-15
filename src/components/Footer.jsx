@@ -7,7 +7,7 @@ const Footer = () => (
       <a href="https://github.com/Raj675592" target="_blank" title="GitHub">gh</a>
       
     </div>
-    <p>&copy; {new Date().getFullYear()} Rajkumar Ahirwar. All rights reserved.</p>
+    <p className="para">&copy; {new Date().getFullYear()} Rajkumar Ahirwar. All rights reserved.</p>
   </footer>
 );
 
