@@ -170,3 +170,6 @@ section:not(:last-child) {
     max-width: 100vw;
   }
 }
+.para{
+  color:white;
+}
